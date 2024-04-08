@@ -4,6 +4,8 @@
 Welcome to the Toroid Network ERC20 Token project! This project aims to create an ERC20 token on the Binance Smart Chain (BSC) with the assistance of OpenZeppelin, a widely trusted library for building secure smart contracts on Ethereum and Binance Smart Chain.
 
 About Toroid Network ERC20 Token:
+![Screenshot 2024-04-08 233452](https://github.com/Nitin0812/ERC20-Token./assets/119347389/538f10c0-f0f7-4be9-ade9-3362128c448d)
+
 
 Toroid Network is a decentralized ERC20 token built on the Binance Smart Chain (BSC) blockchain. The token adheres to the ERC20 standard, providing compatibility with various decentralized applications (dApps), exchanges, and wallets.
 
