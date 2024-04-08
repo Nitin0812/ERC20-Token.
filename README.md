@@ -25,7 +25,7 @@ Getting Started:
 
 To get started with Toroid Network ERC20 token, you can follow these steps:
 
-Clone this repository to your local machine.
+Clone this repository to your local machine or copy the code from "troid.sol" and paste it in your remix.etherium IDE by creating new file in contracts folder, file name should have ".sol" extension 
 Set up your development environment for Solidity smart contract development.
 Customize the token parameters such as name, symbol, and initial supply as per your requirements.
 Deploy the smart contract to the Binance Smart Chain testnet or mainnet using tools like Remix, Truffle, or Hardhat.
